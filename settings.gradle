@@ -1,0 +1,3 @@
+rootProject.name = "VideoCutter"
+include ':app'
+include ':videotrim'
